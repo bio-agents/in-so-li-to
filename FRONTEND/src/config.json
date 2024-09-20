@@ -1,5 +1,3 @@
-{
-    "serverUrl": "https://insolito.openebench.bsc.es/db/neo4j/tx",
-    "serverUser": "neo4j",
-    "serverPassword": "1234"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2859c7d6e07525d8dbb8398dac9ff22004a0e1ed56757178103a799eee9e82d
+size 127
